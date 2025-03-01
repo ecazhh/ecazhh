@@ -6,6 +6,7 @@
 <ul>
   <li>Happy Coding</li>
   <li>html - css</li>
+  <li>wordpress - java script</li>
 </ul>
 
 <hr>
